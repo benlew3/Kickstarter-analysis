@@ -6,3 +6,9 @@ The median pledge amount was just over $1,000, which would lead me to indicate t
 In the US, for plays, the median successful goals was just above $5,000 which was positively fulfilled by pledges around $5,500. From the statistics, as the mean and meadian rise, the likelihood of the kickstarter campaign getting funded decreases. For failed plays in the US, the mean  was over $10,000 which had a pledge mean amount of $559. 
 
 Testing the hypothesis that a higher goal results in a lower pledge rate was shown to have positive correlation on 2 separate tests. US Indie music kick starters also showed a similar correlation that the higher median of failed kickstarters resulted in lower pledge numbers. 
+
+This graphs also show that music and theater kickstarter campaigns have higher rates of success:
+![parent category outcome](Parent-Category-Outcomes.png.png)
+
+This graph indicates that launching a kickstarter in May also has the highest rate of success:
+![launch dates](outcomes-based-on-launch-date.png.png)
