@@ -11,7 +11,7 @@ Testing the hypothesis that a higher goal results in a lower pledge rate was sho
 ![launch dates](outcomes-based-on-launch-date.png.png)
 From this graph, this indicates that May has the greatest amount of success for launching a new kickstarter campaign. January, July and Octobher show that they have high levels of failure to succeed. 
 Diving deeper into they play subcategory also indicates that May is the best time to launch a new campaign to have the highest success rate.
-![play launch date](Play-start-dates.png)
+![play launch date](images/Theater_Outcomes_vs_Launch.png)
 
 This graphs also show that music and theater kickstarter campaigns have higher rates of success:
 ![parent category outcome](Parent-Category-Outcomes.png.png)
