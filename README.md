@@ -19,7 +19,7 @@ In this section we identify how the set goal amount impacts the percentage of ac
 Here we identify that May has the greatest chances of success as a launch date. It also identifies that the later half of the year for a launch date tends to do more poorly.
 
 ### Analysis of Outcomes Based on Goals
-![](images/Outcome_vs_Goals.png)
+![](images/#)
 
 In this chart, it shoes that goal amounts successful and failed are inverse of each other as the goal amount increases. The highest rate of success is at the lower tier, set under $1000, and as it increases between $15,000 and $19,000, the failure rate supersedes the success rate. Again between the $35,000 to $45,999, the success rate of reaching set goals are greater than its failure rate. At the $45,000 mark, it is shown that it has the highest chance of failure. 
 
