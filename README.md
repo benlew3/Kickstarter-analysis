@@ -32,5 +32,8 @@ Some additional graphs that would be interesting to identify would be to see if 
 Another graph that could of bet done would be to see how long successful campaigns ran for. See if there is a correlation between length of campaign time to success rate.
 
 ## Results
-The goal set out by Louise historically had a 70% chance to succeed, but had only reached about 85% of the overall goal. For her goal, it was unfortunate that she was not able to achieve her goal being that she was set in a fairly fertile stage.
-Her launch date was also had a high success rate with low fail rate historically. More data would be necessary in order to indentify why her campaign did not get funded.
+The goal set out by Louise historically had a 70% chance to succeed, but had only reached about 85% of the overall goal. For her goal, it was unfortunate that she was not able to achieve reach it, even though it was historically lucrative. 
+
+Her launch date was also had a high success rate with low fail rate historically. Her launch was a month after peak launch season that had a traditioanlly been a successful time of the year. Unfortunately she was not able to reach funding goals. More data would be necessary in order to indentify why her campaign did not get funded.
+
+From how she was not able to complete her goal, it is probable that she did not have enough traction or there were too many competitors.
